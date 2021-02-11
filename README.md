@@ -26,14 +26,14 @@ For application cost, we would start with our app being a free app to obtain a g
 
 ## Interface Mockups
 
-(for projects that have a presentation layer/ GUI)
+![interface](interface.PNG)
 
  
 
 
 ## Design - Use Case Diagram(s) 
 
-for all the important use cases show use case diagrams
+![diagram](diagram.PNG)
 
  
 
