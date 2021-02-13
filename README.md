@@ -2,7 +2,7 @@
 
 Design Document for______Business Inventory___________
 
-Authors:____Samir Macias, Mark Peres, Jesus Rodriguez, Megan Jen__________
+Authors:____Samir Macias, Mark Peres, Megan Jen__________
 
 Date:_____2/9/2021___________
 
