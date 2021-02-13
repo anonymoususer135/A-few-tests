@@ -60,6 +60,7 @@ We will be using Android as a framework, and google for searching for item quali
 
 -A first account, normally a test account would be created by a volunteer from the industry. The volunteer would then try adding a new item and accessing the barcode and the quality of the item which they inserted into the app. They would then try scanning in an item with the camera to check the inventory, as well as scanning out an item from the inventory. The volunteer will finally scan an item to read its quality and price. They will then fill out a survey on their experience with our app and include on how it can be improved.
 
+## Schedule
 
 
 ## Dependencies
