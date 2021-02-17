@@ -15,7 +15,7 @@ The purpose of this project is to create an app that will help keep track of ite
 
 ## Audience/Customer
 
-Intended audience or customer has first name, last name, email, and item they choose to scan.
+The intended audience for this app would mainly be businesses that need to store items, and keep detailed tracking of those items. This could range from small businesses to large business chains. An example of a business that would be interested in an app like this would be retail businesses as they tend to store a lot of their products in warehouses to then ship out to their various locations to sell.
 
 
 ## Background
