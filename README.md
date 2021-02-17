@@ -11,7 +11,7 @@ Status: __Design_______________
 
 ## Concept Summary
 
-The purpose of this project is to create an app that will help keep track of items being stored in warehouses. As we all know businesses often order their items in bulk ensuring that they have enough supply to meet the demand of customers. Most of the supply is held in warehouses, and there are instances where supply could get miscounted or “lost” when shipping items in and out of a warehouse. With this app, businesses will be able to keep a detailed log of the inventory moving in and out of a warehouse to ensure less mistakes are being made. If a mistake is made then the app has an accountability feature that requires an employee to make an account.
+The purpose of this project is to create an app that will help keep track of items being stored in warehouses. As we all know businesses often order their items in bulk ensuring that they have enough supply to meet the demand of customers. Most of the supply is held in warehouses, and there are instances where supply could get miscounted or “lost” when shipping items in and out of a warehouse. With this app, businesses will be able to keep a detailed log of the inventory moving in and out of a warehouse to ensure less mistakes are being made. If a mistake is made then the app has an accountability feature that requires an employee to make an account. This will lower the amount of mistakes being made saving businesses money they would have otherwise probably lost due to negligent workers.
 
 ## Audience/Customer
 
