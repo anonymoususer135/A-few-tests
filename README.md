@@ -20,7 +20,8 @@ The intended audience for this app would mainly be businesses that need to store
 
 ## Background
 
-The background information necessary to understand the project includes the appropriate price and quantity of the item the user chooses to add to or remove from the database according to the brand. It would also include definitions and current events for updates of the app’s features.
+Some information that could be useful for understanding this project could be the terms shrinkage, and warehouse optimization. The term shrinkage is used in business when there is a loss of inventory. It is usually associated with employee theft, shoplifting, damaged items, and miscounts. We’ll focus on miscounts for the purpose of this project. With the accountability feature on the app, it will apply extra pressure to employees to not miscount items being checked in or out so as to not receive punishment. The other term warehouse optimization refers to making a warehouse as efficient as possible. With the practical design of the app’s interface, checking items in and out will be done in no time ensuring more time is put into optimizing other areas of a warehouse.
+
 
 ## Application Cost and Projected success
 
