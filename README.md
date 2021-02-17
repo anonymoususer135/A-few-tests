@@ -11,7 +11,7 @@ Status: __Design_______________
 
 ## Concept Summary
 
-Our project is going to manage the inventory of any business, by being able to add or remove items from the database.
+The purpose of this project is to create an app that will help keep track of items being stored in warehouses. As we all know businesses often order their items in bulk ensuring that they have enough supply to meet the demand of customers. Most of the supply is held in warehouses, and there are instances where supply could get miscounted or “lost” when shipping items in and out of a warehouse. With this app, businesses will be able to keep a detailed log of the inventory moving in and out of a warehouse to ensure less mistakes are being made. If a mistake is made then the app has an accountability feature that requires an employee to make an account.
 
 ## Audience/Customer
 
