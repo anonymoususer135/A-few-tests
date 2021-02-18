@@ -36,7 +36,7 @@ Another route can also include a month free a company has to pay for using our a
 
 ## Interface Mockups
 
-![interface](https://github.com/anonymoususer135/Group-3/blob/main/Interface%20Mockup_.pdf)
+![interface](https://github.com/anonymoususer135/Group-3/blob/main/Interface%20Mockup_.png)
 
  
 
