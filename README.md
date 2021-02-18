@@ -47,7 +47,7 @@ Another route can also include a month free a company has to pay for using our a
 
 ## Design - Detailed Design
 
-![diagram](https://github.com/anonymoususer135/Group-3/blob/main/Design_Detailed%20Design_.pdf)
+![diagrams(2)](https://github.com/anonymoususer135/Group-3/blob/main/Design_Detailed%20Design_.pdf)
 
 ## Related Work
 
