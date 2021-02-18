@@ -36,7 +36,7 @@ Another route can also include a month free a company has to pay for using our a
 
 ## Interface Mockups
 
-![interface](Slide6.png)
+![interface](Slide6.jpeg)
 
  
 
