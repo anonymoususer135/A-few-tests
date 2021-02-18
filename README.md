@@ -36,18 +36,21 @@ Another route can also include a month free a company has to pay for using our a
 
 ## Interface Mockups
 
-![interface](https://github.com/anonymoususer135/Group-3/blob/main/Interface%20Mockup_.png)
+![](https://github.com/anonymoususer135/Group-3/blob/main/Interface%20Mockup_.png)
 
  
 
 ## Design - Use Case Diagram(s) 
 
-![diagram](https://github.com/anonymoususer135/Group-3/blob/main/Design_Use%20Case%20Diagram_.pdf)
+![](https://github.com/anonymoususer135/Group-3/blob/main/Design_Use%20Case%20Diagram_.png)
  
 
 ## Design - Detailed Design
 
-![diagrams(2)](https://github.com/anonymoususer135/Group-3/blob/main/Design_Detailed%20Design_.pdf)
+![](https://github.com/anonymoususer135/Group-3/blob/main/Design_Detailed%20Design_Part1.png)
+
+![](https://github.com/anonymoususer135/Group-3/blob/main/Design_Detailed%20Design_Part2.png)
+
 
 ## Related Work
 
