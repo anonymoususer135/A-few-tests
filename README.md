@@ -36,21 +36,18 @@ Another route can also include a month free a company has to pay for using our a
 
 ## Interface Mockups
 
-![interface](Interface Mockup_.pdf)
+![interface](https://github.com/anonymoususer135/Group-3/blob/main/Interface%20Mockup_.pdf)
 
  
 
-
 ## Design - Use Case Diagram(s) 
 
-![diagram](Project3_DesignDocument.pdf)
-
+![diagram](https://github.com/anonymoususer135/Group-3/blob/main/Design_Use%20Case%20Diagram_.pdf)
  
 
 ## Design - Detailed Design
 
-The design will first have the log in page containing the username and password, as well as a sign up button if the user does not have an account for the app. The sign up button will lead to a page which contains the first name, last name, email, and password, and a checkbox for the user to check to agree to the terms of service and privacy policy. It will have a continue button and below that, a link to the sign in page if the user already has an account. Both the continue button in the sign up page and the sign in button in the start page will lead to the user’s profile, containing the options to add a new item, scan in, scan out, and price and quantity, and under the four options, a log out link to bring the user to the start page. The add new item button first leads to eight inputs; the item’s name, type, brand, condition, quantity, price, color, and comments. The type input has the user tap on the Android or iPhone brand, and condition has the user tap on either the new condition or used condition. Under the inputs, there is an Enter button which leads the user to a barcode with an export button under it, and under the barcode and export button is a main menu button leading the user to their profile. The export button under the barcode exports the item the user has described, and the barcode is scanned in to add the item to the inventory. The scan in button leads to a camera, then a scanned in page and a scanned in log screen once the user has scanned an item. The scanned out button shows a scanned out page and the scanned out log page, and the quote/price search scans an item and shows the description of the item scanned.
-
+![diagram](https://github.com/anonymoususer135/Group-3/blob/main/Design_Detailed%20Design_.pdf)
 
 ## Related Work
 
