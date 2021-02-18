@@ -36,14 +36,14 @@ Another route can also include a month free a company has to pay for using our a
 
 ## Interface Mockups
 
-![interface](interface.PNG)
+![interface](Slide6.png)
 
  
 
 
 ## Design - Use Case Diagram(s) 
 
-![diagram](Project3_DesignDocument.pdf )
+![diagram](Project3_DesignDocument.pdf)
 
  
 
